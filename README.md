@@ -6,4 +6,8 @@ The goal of this folder is to collect a heterogeneous set of material related to
 
 ## e-Rum2020 resources
 
+General information
 - [Conference website](https://2020.erum.io/)
+
+Outputs
+- [CovidR gallery](https://milano-r.github.io/erum2020-covidr-contest/) that gathers all the contributions presented in the CovidR preconference event held on May 29, 2020
