@@ -6,7 +6,7 @@ The goal of this folder is to collect a heterogeneous set of resources related t
 
 ## e-Rum2020 resources
 
-General information
+General information about e-Rum2020
 - [Conference website](https://2020.erum.io/)
 
 Outputs
