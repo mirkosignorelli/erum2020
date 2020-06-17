@@ -5,3 +5,5 @@ The goal of this folder is to collect a heterogeneous set of material related to
 ## Lightning talk about ptmixed
 
 ## e-Rum2020 resources
+
+- [Conference website](https://2020.erum.io/)
