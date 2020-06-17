@@ -10,4 +10,5 @@ General information
 - [Conference website](https://2020.erum.io/)
 
 Outputs
+- [YouTube channel] where you can find the contributions presented during the conference
 - [CovidR gallery](https://milano-r.github.io/erum2020-covidr-contest/) that gathers all the contributions presented in the CovidR preconference event held on May 29, 2020
