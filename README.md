@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/20061736/84913063-626df380-b0ba-11ea-8781-dbff9962e2c0.png" align="right" alt="" width="250" />
+<img src="https://user-images.githubusercontent.com/20061736/84913063-626df380-b0ba-11ea-8781-dbff9962e2c0.png" align="right" alt="" width="200" />
 
 # List of e-Rum2020 resources
 
