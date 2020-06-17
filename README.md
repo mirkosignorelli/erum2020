@@ -4,6 +4,10 @@ The goal of this folder is to collect a heterogeneous set of resources related t
 
 ## Lightning talk about ptmixed
 
+- Here is the deck of slides that I am going to present
+- Here you can find the [preprint of the article about ptmixed](https://arxiv.org/abs/2004.11193), which is in press with Statistical Modelling
+- Finally, at this page you can [find out more about ptmixed and other R projects](https://mirkosignorelli.wixsite.com/home/software) on which I work on
+
 ## e-Rum2020 resources
 
 General information about e-Rum2020
