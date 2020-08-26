@@ -8,7 +8,7 @@ I was mainly involved in the organization of this virtual conference as member o
 
 ## Lightning talk about ptmixed
 
-- Here is the [deck of slides about ptmixed that I presented](https://github.com/m-signo/erum2020/blob/master/beamer-signorelli-erum2020.pdf) on Friday
+- Here is the [video recording of the presentation] that I gave at eRum2020, and here you can find the [deck of slides that I used](https://github.com/m-signo/erum2020/blob/master/beamer-signorelli-erum2020.pdf)
 - Here you can download (freely) the [article that describes the methodology on which ptmixed is based](https://doi.org/10.1177/1471082X20936017)
 - Finally, at this page you can [find out more about ptmixed and other R projects](https://mirkosignorelli.wixsite.com/home/software) that I have been working on over the last few years
 
