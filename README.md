@@ -9,7 +9,7 @@ I was mainly involved in the organization of this virtual conference as member o
 ## Lightning talk about ptmixed
 
 - Here is the [deck of slides about ptmixed that I presented](https://github.com/m-signo/erum2020/blob/master/beamer-signorelli-erum2020.pdf) on Friday
-- Here you can find the [preprint of the article about ptmixed](https://arxiv.org/abs/2004.11193), which is in press with Statistical Modelling
+- Here you can download (freely) the [article that describes the methodology on which ptmixed is based](https://doi.org/10.1177/1471082X20936017)
 - Finally, at this page you can [find out more about ptmixed and other R projects](https://mirkosignorelli.wixsite.com/home/software) that I have been working on over the last few years
 
 ## e-Rum2020 resources
@@ -22,4 +22,3 @@ Outputs:
 - [Github folder with the slides of the presented contributions](https://github.com/Milano-R/erum2020program)
 - [CovidR gallery](https://milano-r.github.io/erum2020-covidr-contest/) that gathers all the contributions presented in the CovidR preconference event held on May 29, 2020
 - [Github repository of the MilanoR association](https://github.com/Milano-R), where we have uploaded some of the R-based tools that we created and used to organize the conference
-
