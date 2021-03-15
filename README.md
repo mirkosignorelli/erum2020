@@ -18,7 +18,7 @@ General information about e-Rum2020:
 - [Conference website](https://2020.erum.io/)
 
 Outputs:
-- [R Journal article: e-Rum2020: how we turned a physical conference into a successful virtual event](https://journal.r-project.org/archive/2020-2/erum.pdf)
+- R Journal article: [e-Rum2020: how we turned a physical conference into a successful virtual event](https://journal.r-project.org/archive/2020-2/erum.pdf)
 - [e-Rum2020 YouTube channel](https://www.youtube.com/channel/UCDOoQShiQHE7_C-wuLqFJ7w) where we are uploading the videos of the contributions presented during the conference
 - [Github folder with the slides of the presented contributions](https://github.com/Milano-R/erum2020program)
 - [CovidR gallery](https://milano-r.github.io/erum2020-covidr-contest/) that gathers all the contributions presented in the CovidR preconference event held on May 29, 2020
